@@ -9,8 +9,8 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://otimogestorerp.wpenginepowered.com/wp-content/uploads/2021/09/img-topo-cadeado-og-02.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ University Student  <br>
+✨ **About Me**<img src="https://otimogestorerp.wpenginepowered.com/wp-content/uploads/2021/09/img-topo-cadeado-og-02.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<br> 👨🏻‍💻 University Student  <br>
 🤓 I'm learning more about Cybersecurity, Java and Python. <br>
 
 <!--- Adding Tech Stack open Section -->
