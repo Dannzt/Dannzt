@@ -10,8 +10,8 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://otimogestorerp.wpenginepowered.com/wp-content/uploads/2021/09/img-topo-cadeado-og-02.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Student <br>
-⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
+✨ University Student  <br>
+<!---⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
 📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
 👯 Join my opensource community[recodehive](https://github.com/Recodehive)<br>
 💬 Ask me about SEO/Data Science.<br>
