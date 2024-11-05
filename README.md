@@ -11,7 +11,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="[https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png](https://otimogestorerp.wpenginepowered.com/wp-content/uploads/2021/09/img-topo-cadeado-og-02.png)" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://otimogestorerp.wpenginepowered.com/wp-content/uploads/2021/09/img-topo-cadeado-og-02.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Data Engineer | Prev. PM @girlscript <br>
 ⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
 📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
