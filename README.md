@@ -1,13 +1,10 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Sanjay</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/daniel-teles-629421227/?locale=en_US">Sanjay</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="http://sanjaykv.com/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
-  <a href="https://x.com/sanjay_kv_">Twitter</a> -
-  <a href="https://recodehive.com/">Website</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
+  <a href="https://www.linkedin.com/in/daniel-teles-629421227/?locale=en_US">LinkedIn</a> - 
+  <a href="https://www.instagram.com/daniel.dinizt/">Instagram</a> -
+  <a href="[Me contate por email](mailto:danielribeiroteles021@gmail.com)">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
