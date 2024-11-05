@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-teles-629421227/?locale=en_US">LinkedIn</a> - 
   <a href="https://www.instagram.com/daniel.dinizt/">Instagram</a> -
-  <a href="[Me contate por email](mailto:danielribeiroteles021@gmail.com)">Contact me.</a> 
+  <a href="mailto:danielribeiroteles021@gmail.com">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
