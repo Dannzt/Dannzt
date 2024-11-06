@@ -22,8 +22,8 @@
   
 | Skills                                   | Associated Project|
 |----------------------------------------- |-------------------|
-| Proficient in C Programming (University)      | <a href="https://github.com/Dannzt/CodigosUCB" target ="_blank" >Portfolio Project</a> |
-|Teamwork & Collaboration in C Programing  | <a href="https://github.com/Dannzt/projeto_Estrutura_de_Dados" taget="_blank" >Pharmaceutical Stock Control</a> |
+| Proficient in C Programming (University) | <a href="https://github.com/Dannzt/CodigosUCB" target ="_blank" >Portfolio Project</a> |
+|Teamwork & Collaboration in C Programing  | <a href="https://github.com/Dannzt/projeto_Estrutura_de_Dados" taget="_blank" > Stock Control</a> |
 
 
 </details> 
