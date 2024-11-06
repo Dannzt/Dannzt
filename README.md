@@ -17,7 +17,7 @@
 
 <details>	
  <summary><b>🛠 Skills / Projects </b></summary> 
- My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Digital Forensics.
+ My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Computer Forensic Investigator
  
 
 </div>
