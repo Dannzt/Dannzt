@@ -1,9 +1,9 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/daniel-teles-629421227/?locale=en_US">Dannzt</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://https://www.linkedin.com/in/danielribeiroteles/">Dannzt</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
   I'm Daniel Ribeiro Teles, student of Computer Science at the UCB <br> -
-  <a href="https://www.linkedin.com/in/daniel-teles-629421227/?locale=en_US">Linkedin</a> - 
+  <a href="https://www.linkedin.com/in/danielribeiroteles/">Linkedin</a> - 
   <a href="https://www.instagram.com/daniel.dinizt/">Instagram</a> -
   <a href="mailto:danielribeiroteles021@gmail.com">Contact me </a> -
 </p>
