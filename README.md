@@ -3,7 +3,7 @@
 <!--- Adding Header Elements -->
 <p align="center">
   I'm Daniel Ribeiro Teles, student of Computer Science at the UCB <br> -
-  <a href="https://www.linkedin.com/in/danielribeiroteles/">Linkedin</a> - 
+  <a href="https://www.linkedin.com/in/danielribeiroteles/">LinkedIn</a> - 
   <a href="https://www.instagram.com/daniel.dinizt/">Instagram</a> -
   <a href="mailto:danielribeiroteles021@gmail.com">Contact me </a> -
 </p>
@@ -12,7 +12,7 @@
 ✨ **About Me**<img src="https://otimogestorerp.wpenginepowered.com/wp-content/uploads/2021/09/img-topo-cadeado-og-02.png" min-width="300px" max-width="300px" width="350px" align="right">  <br> 
 👨🏻‍💻 University Student  <br>
 🤓 I'm learning more about Cybersecurity, Cryptography and C language<br>
-👨‍🎓 My journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Computer Forensic Investigator. <br>
+🕵️‍♂️ My journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Computer Forensic Investigator. <br>
 
 <!--- Adding Tech Stack open Section -->
 
