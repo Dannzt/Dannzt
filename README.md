@@ -9,16 +9,16 @@
 </p>
 
 -----------------------------------------------------------
-✨ **About Me**<img src="https://otimogestorerp.wpenginepowered.com/wp-content/uploads/2021/09/img-topo-cadeado-og-02.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-<br> 👨🏻‍💻 University Student  <br>
+✨ **About Me**<img src="https://otimogestorerp.wpenginepowered.com/wp-content/uploads/2021/09/img-topo-cadeado-og-02.png" min-width="300px" max-width="300px" width="350px" align="right">  <br> 
+👨🏻‍💻 University Student  <br>
 🤓 I'm learning more about Cybersecurity, Cryptography and C language<br>
+👨‍🎓 My journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Computer Forensic Investigator. <br>
 
 <!--- Adding Tech Stack open Section -->
 
 <details>	
  <summary><b>🛠 Skills / Projects </b></summary> 
-   My journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Computer Forensic Investigator. <br>
-<h4> Skills </h4>
+  <h4> Skills </h4>
   
 | Skills                                   | Associated Project|
 |----------------------------------------- |-------------------|
