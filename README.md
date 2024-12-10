@@ -11,6 +11,8 @@
 -----------------------------------------------------------
 ✨ **About Me**<img src="https://otimogestorerp.wpenginepowered.com/wp-content/uploads/2021/09/img-topo-cadeado-og-02.png" min-width="300px" max-width="300px" width="350px" align="right">  <br> 
 👨🏻‍💻 University Student  <br>
+🎬 Born and raised in Brasilia, Brazil. <br>
+👾 I love playing video games, watching movies and football <br>
 🤓 I'm learning more about Cybersecurity, Cryptography and C language<br>
 🕵️‍♂️ My journey in Computer Science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Computer Forensic Investigator. <br>
 
