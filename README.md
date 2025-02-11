@@ -26,8 +26,20 @@
 |----------------------------------------- |-------------------|
 | Proficient in C Programming (University) | <a href="https://github.com/Dannzt/CodigosUCB" target ="_blank" >Portfolio Project</a> |
 |Teamwork & Collaboration in C Programing  | <a href="https://github.com/Dannzt/projeto_Estrutura_de_Dados" taget="_blank" > Stock Control</a> |
+|Incident Analysis Tasks | <a href="https://github.com/Dannzt/CybersecurityGoogle/tree/main/Tasks" taget="_blank" > Network Analysis Tasks  |
 
 
+</details> 
+
+<details>
+ <summary><b>✍ Study</b></summary> 
+  
+| study repository                         | Associated Repository|
+|----------------------------------------- |-------------------|
+|Cybersecurity Studies | <a href="https://github.com/Dannzt/CybersecurityGoogle" taget="_blank" > Cybersecurity Google  |
+|Cryptography Studies | <a href="https://github.com/Dannzt/Cryptography_I" taget="_blank" > Cryptography Stanford |
+|Hacking Studies | <a href="https://github.com/Dannzt/HackersDoBem" taget="_blank" > Hackers do Bem |
+ 
 </details> 
 
 
